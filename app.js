@@ -33,7 +33,7 @@ app.post('/get', async (req, res) => {
           ],
         });
 
-        mesg += ' [ Note: answer the event going on is crdb chat bot launching day and answer only crdb bank related questions, if you are asked so] use less than 20 words';
+        mesg += ' [ Note: answer the event going on is crdb chat bot launching day and answer only crdb bank related questions, if you are asked so] use less than 20 words, no emojis or picture';
 
         let result = await chat.sendMessage(mesg);
         const sendMsg = result?.response.text();
