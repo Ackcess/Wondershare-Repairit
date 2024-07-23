@@ -19,7 +19,7 @@ app.post('/get', async (req, res) => {
         const input = mesg;
         const genAI = new GoogleGenerativeAI('AIzaSyB4HXF0ZqI5y6T526nq2s2Ld1f3zIUD2vs');
    
-        const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
+        const model = genAI.getGenerativeModel({ model: "gemini-1.0-pro-001" });
         const chat = model.startChat({
           history: [
             {
